@@ -1,0 +1,4 @@
+chinaski
+========
+
+static site generator
