@@ -1,4 +1,4 @@
-chinaski (work in progress)
+chinaski (work in progress) [![Build Status](https://secure.travis-ci.org/Horsed/chinaski.png)](http://travis-ci.org/Horsed/chinaski) [![unstable](http://hughsk.github.io/stability-badges/dist/unstable.svg)](http://github.com/hughsk/stability-badges)
 ========
 
 ```<img src="localhost:9001/chinaski.gif?any=param" />```
