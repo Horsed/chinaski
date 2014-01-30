@@ -1,12 +1,19 @@
-chinaski
+chinaski (work in progress)
 ========
 
-static site generator
+```<img src="localhost:9001/chinaski.gif?any=param" />```
 
-* markdown content
-* grunt for build
-* templates
-* exports.title
-* exports.description
-* exports.url
-* exports.content = parseTemplate(‘default‘).withContent(fs.readFile(‘article-xy))
+Web app with a tracking pixel that stores any data in a MongoDB.
+
+## Installation
+  $ npm install chinaski
+
+## Config
+```config.js```
+
+```js
+  {
+    mongodb: 'mongodb://127.0.0.1:27017/tracking',
+    port: '9001'
+  }
+```
