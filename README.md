@@ -6,8 +6,8 @@ chinaski (work in progress) [![Build Status](https://secure.travis-ci.org/Horsed
 Tracking pixel web app that stores any GET parameter in your MongoDB.
 
 ## Installation
-    $ npm install chinaski
-    $ NODE_ENV=local node chinaski
+    $ npm install -g chinaski
+    $ NODE_ENV=local chinaski
 
 ## Config
 Setup an environment specific config file (e.g. ```config/local.js```) with the following content:
